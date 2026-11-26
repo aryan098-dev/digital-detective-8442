@@ -19,3 +19,9 @@ A mission-based exploration of computer fundamentals, Terminal, operating system
 The public repository and mission folder structure have been created. Mission 0 setup details are recorded. The remaining missions are deliberately marked pending until their activities are performed and documented. Each mission should be completed and committed separately, in order.
 
 No student name, full USN, device identifiers, or private network details are included here.
+
+## My Learning
+
+- I learned how computers process input, run software, and store information.
+- I learned how Git helps track changes and how branches and Pull Requests support collaboration.
+- I practiced Terminal commands and Python number conversion.
